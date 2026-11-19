@@ -1,4 +1,4 @@
-# code for pren8x3.v
+# code for makefile.v
   ...
      " ============================================================================
 " Netrw Directory Listing                                        (netrw v170)
